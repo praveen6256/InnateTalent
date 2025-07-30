@@ -28,11 +28,4 @@ This repository contains beginner-level **Java programs** designed to improve pr
 
 ---
 
-## ▶️ How to Run
 
-Make sure you have Java installed:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/InnateTalent.git
-   cd InnateTalent
